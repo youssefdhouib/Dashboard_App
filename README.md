@@ -81,7 +81,7 @@ Here are some screenshots of the project:
 ![Features Section](backend/projectpics/missaffect.png)  
   - Automated Email to affected client and technician 
 ![](backend/projectpics/techemail.png)
-![](backend/projectpics/clientemail.png)  
+![](backend/projectpics/cleintemail.png)  
 
 
 - **Technician Details**  
