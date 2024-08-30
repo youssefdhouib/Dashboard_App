@@ -77,9 +77,11 @@ Here are some screenshots of the project:
 ![Features Section](backend/projectpics/techtable.png)
   - Missions Table
 ![Features Section](backend/projectpics/miss1.png)
-  - Reclammations Table 
-![Features Section](backend/projectpics/admindash.png)
-  
+  - Affect Mission 
+![Features Section](backend/projectpics/missaffect.png)  
+  - Automated Email to affected client and technician 
+![](backend/projectpics/techemail.png)
+![](backend/projectpics/clientemail.png)  
 
 
 - **Technician Details**  
