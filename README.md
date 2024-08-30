@@ -87,7 +87,8 @@ Here are some screenshots of the project:
 
 Here's a video demonstration of the project:
 https://www.youtube.com/watch?v=nVTRz93AxVU&feature=youtu.be&sttick=0
-[![Video Demo](https://img.youtube.com/vi/nVTRz93AxVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=25W8MoCT-VI)
+[![Video Demo](https://img.youtube.com/vi/25W8MoCT-VI/maxresdefault.jpg
+)](https://www.youtube.com/watch?v=25W8MoCT-VI)
 
 
 ## Technologies Used
@@ -96,7 +97,7 @@ https://www.youtube.com/watch?v=nVTRz93AxVU&feature=youtu.be&sttick=0
 - **Backend**: Laravel, PHP, MySQL
 - **Database**: MySQL
 - **Email**: Automated email sending using templates
-- **Tools**: VSCode, Git, GitHub
+- **Tools**: VSCode, Git, GitHub,Postman
 
 ## Contact
 
