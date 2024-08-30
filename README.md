@@ -72,8 +72,8 @@ Here are some screenshots of the project:
 - **Admin Dashboard**  
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
-![](backend/projectpics/feature1.png)
-![Homepage Feature 2](backend/projectpics/feature2.png)
+![](backend/projectpics/home2.png)
+![Homepage Feature 2](backend/projectpics/home3.png)
 ![Homepage Feature 3](backend/projectpics/feature3.png)
     
   *Caption: Homepage*
