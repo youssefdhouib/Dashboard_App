@@ -97,9 +97,10 @@ Here's a video demonstration of the project: [Video Demo Link](https://www.youtu
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).  
-LinkedIn profile: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-Project Link: [GitHub Repository](https://github.com/your-username/technician-performance-tracking-app)
+For any questions or feedback, feel free to contact me at [dhouibyoussef222@gmail.com](mailto:dhouibyoussef222@gmail.com).<br>
+Linkdin profile : www.linkedin.com/in/youssef-dhouib-yd2003 <br>
+Project Link: https://github.com/youssefdhouib/cercina_company_landing-page
+
 
 ## Acknowledgments
 
