@@ -73,8 +73,8 @@ Here are some screenshots of the project:
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
 ![](backend/projectpics/home2.png)
-![Homepage Feature 2](backend/projectpics/home3.png)
-![Homepage Feature 3](backend/projectpics/feature3.png)
+![](backend/projectpics/home3.png)
+![](backend/projectpics/feature3.png)
     
   *Caption: Homepage*
 
