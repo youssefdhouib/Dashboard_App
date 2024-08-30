@@ -73,6 +73,8 @@ Here are some screenshots of the project:
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
 ![](backend/projectpics/home2.png)
+  - Admin profile
+![](backend/projectpics/profile.png)
   - Technicians Table
 ![Features Section](backend/projectpics/techtable.png)
   - Missions Table
@@ -81,8 +83,9 @@ Here are some screenshots of the project:
 ![Features Section](backend/projectpics/missaffect.png)  
   - Automated Email to affected client and technician 
 ![](backend/projectpics/techemail.png)
-![](backend/projectpics/cleintemail.png)  
-
+![](backend/projectpics/cleintemail.png)
+  - Reply to reclammation 
+![Features Section](backend/projectpics/replyrec.png)  
 
 - **Technician Details**  
   *Caption: Detailed view of a technician’s performance*
