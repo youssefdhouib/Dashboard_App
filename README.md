@@ -72,7 +72,7 @@ Here are some screenshots of the project:
 - **Admin Dashboard**  
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
-![Homepage Feature 1](backend/projectpics/feature1.png)
+![](backend/projectpics/feature1.png)
 ![Homepage Feature 2](backend/projectpics/feature2.png)
 ![Homepage Feature 3](backend/projectpics/feature3.png)
     
