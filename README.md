@@ -39,3 +39,14 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+## Frontend Setup
+
+Navigate to the frontend folder and install dependencies:
+```bash
+cd ../frontend
+npm install
+```
+Start the development server:
+```bash
+ng serve
+```
