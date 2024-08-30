@@ -24,3 +24,20 @@ git clone https://github.com/your-username/technician-performance-tracking-app.g
 
 # Navigate to the project directory
 cd technician-performance-tracking-app
+# Technician Performance Tracking App
+
+## Backend Setup
+
+Navigate to the backend folder and install dependencies:
+
+```bash
+cd backend
+composer install
+
+Set up your .env file and run migrations:
+```bash
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
