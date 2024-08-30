@@ -74,20 +74,20 @@ Here are some screenshots of the project:
 ![Homepage Overview](backend/projectpics/admindash.png)
 ![](backend/projectpics/home2.png)
     
-  *Caption: Homepage*
+ 
 
-- Technicians Table
+    - Technicians Table
   ![Features Section](backend/projectpics/techtable.png)
    
-  *Caption: Technicians Table*
 
-- Missions Table
+
+    - Missions Table
   ![Features Section](backend/projectpics/miss1.png)
-  *Caption: Missions Table*
+ 
 
-- Reclammations Table 
+    - Reclammations Table 
   ![Features Section](backend/projectpics/admindash.png)
-  *Caption:Reclammation Table *
+  
 
 
 - **Technician Details**  
