@@ -71,7 +71,7 @@ This project includes the following features:
 Here are some screenshots of the project:
 - **#Admin Dashboard**  
   - Homepage
-  ![Homepage](backend/projectpics/admindash)
+  ![Homepage](backend/projectpics/admindash.png)
   *Caption: Homepage*
 
 - About us Section
