@@ -1,9 +1,5 @@
 # Technician Performance Tracking App
 
-## Project Deploy Link
-
-[Your Deployment Link Here]
-
 ## Description
 
 The Technician Performance Tracking App is a comprehensive tool designed to monitor and evaluate technician performance across various metrics. Developed using Laravel for the backend and Angular for the frontend, this application offers a robust solution for managing technician data, automating administrative tasks, and enhancing operational efficiency.
@@ -73,9 +69,28 @@ This project includes the following features:
 ## Screenshots
 
 Here are some screenshots of the project:
+- **Admin Dashboard**  
+  - Homepage
+  ![Homepage](screenshots/acc.png)
+  *Caption: Homepage*
 
-- **Dashboard**  
-  *Caption: Dashboard showing technician performance metrics*
+- About us Section
+  ![Features Section](screenshots/about.png)
+  *Caption: About us Section*
+
+- Services Section
+  ![Features Section](screenshots/popular.png)
+   ![Features Section](screenshots/popular2.png)
+  *Caption: Services Section*
+
+- Testimonial Section
+  ![Features Section](screenshots/testimonoi.png)
+  *Caption: Testimonial Section*
+
+- footer
+  ![Features Section](screenshots/footer.png)
+  *Caption: footer Section*
+
 
 - **Technician Details**  
   *Caption: Detailed view of a technician’s performance*
