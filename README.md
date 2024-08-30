@@ -50,3 +50,58 @@ Start the development server:
 ```bash
 ng serve
 ```
+## Usage
+
+To use the project, follow these steps:
+
+1. Clone the repository.
+2. Install the backend and frontend dependencies.
+3. Start both the backend and frontend servers.
+4. Open the application in your browser.
+
+## Features
+
+This project includes the following features:
+
+- **Responsive Design**: Works seamlessly on various devices and screen sizes.
+- **Performance Tracking**: Monitor and evaluate technician performance using real-time data.
+- **Automated Email Notifications**: Send automated emails to top-performing technicians and mission assignment details using templates.
+- **Data Visualization**: Utilize charts for insightful data representation.
+- **Secure Authentication**: Implement user authentication and security checks.
+- **Advanced Functionality**: Includes features like email sending, data visualization, and secure login.
+
+## Screenshots
+
+Here are some screenshots of the project:
+
+- **Dashboard**  
+  *Caption: Dashboard showing technician performance metrics*
+
+- **Technician Details**  
+  *Caption: Detailed view of a technician’s performance*
+
+- **Automated Emails**  
+  *Caption: Automated email functionality*
+
+## Video Demo
+
+Here's a video demonstration of the project: [Video Demo Link](https://www.youtube.com/your-video-link)
+
+## Technologies Used
+
+- **Frontend**: Angular, TypeScript, HTML, CSS
+- **Backend**: Laravel, PHP, MySQL
+- **Database**: MySQL
+- **Email**: Automated email sending using templates
+- **Tools**: VSCode, Git, GitHub
+
+## Contact
+
+For any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).  
+LinkedIn profile: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+Project Link: [GitHub Repository](https://github.com/your-username/technician-performance-tracking-app)
+
+## Acknowledgments
+
+I am grateful to ASM - All Soft Multimedia and my teammates for their support and the valuable learning experience during the development of this project.
+
