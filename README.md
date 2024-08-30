@@ -73,27 +73,21 @@ Here are some screenshots of the project:
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
 ![](backend/projectpics/home2.png)
-![](backend/projectpics/home3.png)
-![](backend/projectpics/feature3.png)
     
   *Caption: Homepage*
 
-- About us Section
-  ![Features Section](screenshots/about.png)
-  *Caption: About us Section*
+- Technicians Table
+  ![Features Section](backend/projectpics/techtable.png)
+   
+  *Caption: Technicians Table*
 
-- Services Section
-  ![Features Section](screenshots/popular.png)
-   ![Features Section](screenshots/popular2.png)
-  *Caption: Services Section*
+- Missions Table
+  ![Features Section](backend/projectpics/miss1.png)
+  *Caption: Missions Table*
 
-- Testimonial Section
-  ![Features Section](screenshots/testimonoi.png)
-  *Caption: Testimonial Section*
-
-- footer
-  ![Features Section](screenshots/footer.png)
-  *Caption: footer Section*
+- Reclammations Table 
+  ![Features Section](backend/projectpics/admindash.png)
+  *Caption:Reclammation Table *
 
 
 - **Technician Details**  
