@@ -70,11 +70,10 @@ This project includes the following features:
 
 Here are some screenshots of the project:
 - **Authentification**
-   - Login
-        ![](backend/projectpics/login.png)
    
-   - Register
-        ![](backend/projectpics/register.png)        
+  ![](backend/projectpics/login.png)
+   
+  ![](backend/projectpics/register.png)        
 
 - **Admin Dashboard**  
   - Homepage
