@@ -69,6 +69,13 @@ This project includes the following features:
 ## Screenshots
 
 Here are some screenshots of the project:
+- **Authentification**
+  - Login
+    ![](backend/projectpics/login.png)
+   
+  - Register
+    ![](backend/projectpics/register.png)        
+
 - **Admin Dashboard**  
   - Homepage
 ![Homepage Overview](backend/projectpics/admindash.png)
@@ -91,20 +98,15 @@ Here are some screenshots of the project:
   - Homepage
 ![Homepage Overview](backend/projectpics/techDashboard.png)
 ![](backend/projectpics/home2.png)
-  - Admin profile
-![](backend/projectpics/profile.png)
-  - Technicians Table
-![Features Section](backend/projectpics/techtable.png)
-  - Missions Table
-![Features Section](backend/projectpics/miss1.png)
-  - Affect Mission 
-![Features Section](backend/projectpics/missaffect.png)  
-  - Automated Email to affected client and technician 
-![](backend/projectpics/techemail.png)
-![](backend/projectpics/cleintemail.png)
-  - Reply to reclammation 
-![Features Section](backend/projectpics/replyrec.png)    *Caption: Detailed view of a technician’s performance*
-
+  - Technician profile
+![](backend/projectpics/techprofil.png)
+  - Technician's Missions Table
+![Features Section](backend/projectpics/misstabletechdash.png)
+  - Technician's Reclammations Table 
+![Features Section](backend/projectpics/rectabletechdash.png)![](backend/projectpics/successdeleterec.png)
+  - Add reclamation 
+![Features Section](backend/projectpics/addrectechdash.png)    
+  
 - **Automated Emails**  
   *Caption: Automated email functionality*
 
