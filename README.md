@@ -101,7 +101,7 @@ Here are some screenshots of the project:
 ![](backend/projectpics/techprofil.png)
   - Technician's Missions Table
 ![Features Section](backend/projectpics/misstabletechdash.png)
-  - Technician's Reclammations Table 
+  - Technician's Reclammations Table and SOFT DELETE feature 
 ![Features Section](backend/projectpics/rectabletechdash.png)![](backend/projectpics/successdeleterec.png)
   - Add reclamation 
 ![Features Section](backend/projectpics/addrectechdash.png)    
