@@ -106,8 +106,9 @@ Here are some screenshots of the project:
   - Add reclamation 
 ![Features Section](backend/projectpics/addrectechdash.png)    
   
-- **Automated Emails**  
-  *Caption: Automated email functionality*
+- **Automated Email each month for the best employee(with the highest score)**  
+   
+![Features Section](backend/projectpics/toptech.png)      
 
 ## Video Demo
 
