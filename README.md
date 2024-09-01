@@ -87,8 +87,23 @@ Here are some screenshots of the project:
   - Reply to reclammation 
 ![Features Section](backend/projectpics/replyrec.png)  
 
-- **Technician Details**  
-  *Caption: Detailed view of a technician’s performance*
+- **Technician Dashboard**  
+  - Homepage
+![Homepage Overview](backend/projectpics/techDashboard.png)
+![](backend/projectpics/home2.png)
+  - Admin profile
+![](backend/projectpics/profile.png)
+  - Technicians Table
+![Features Section](backend/projectpics/techtable.png)
+  - Missions Table
+![Features Section](backend/projectpics/miss1.png)
+  - Affect Mission 
+![Features Section](backend/projectpics/missaffect.png)  
+  - Automated Email to affected client and technician 
+![](backend/projectpics/techemail.png)
+![](backend/projectpics/cleintemail.png)
+  - Reply to reclammation 
+![Features Section](backend/projectpics/replyrec.png)    *Caption: Detailed view of a technician’s performance*
 
 - **Automated Emails**  
   *Caption: Automated email functionality*
