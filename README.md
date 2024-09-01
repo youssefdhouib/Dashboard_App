@@ -69,31 +69,41 @@ This project includes the following features:
 ## Screenshots
 
 Here are some screenshots of the project:
-- **#Admin Dashboard**  
+- **Admin Dashboard**  
   - Homepage
-  ![Homepage](screenshots/acc.png)
-  *Caption: Homepage*
+![Homepage Overview](backend/projectpics/admindash.png)
+![](backend/projectpics/home2.png)
+  - Admin profile
+![](backend/projectpics/profile.png)
+  - Technicians Table
+![Features Section](backend/projectpics/techtable.png)
+  - Missions Table
+![Features Section](backend/projectpics/miss1.png)
+  - Affect Mission 
+![Features Section](backend/projectpics/missaffect.png)  
+  - Automated Email to affected client and technician 
+![](backend/projectpics/techemail.png)
+![](backend/projectpics/cleintemail.png)
+  - Reply to reclammation 
+![Features Section](backend/projectpics/replyrec.png)  
 
-- About us Section
-  ![Features Section](screenshots/about.png)
-  *Caption: About us Section*
-
-- Services Section
-  ![Features Section](screenshots/popular.png)
-   ![Features Section](screenshots/popular2.png)
-  *Caption: Services Section*
-
-- Testimonial Section
-  ![Features Section](screenshots/testimonoi.png)
-  *Caption: Testimonial Section*
-
-- footer
-  ![Features Section](screenshots/footer.png)
-  *Caption: footer Section*
-
-
-- **Technician Details**  
-  *Caption: Detailed view of a technician’s performance*
+- **Technician Dashboard**  
+  - Homepage
+![Homepage Overview](backend/projectpics/techDashboard.png)
+![](backend/projectpics/home2.png)
+  - Admin profile
+![](backend/projectpics/profile.png)
+  - Technicians Table
+![Features Section](backend/projectpics/techtable.png)
+  - Missions Table
+![Features Section](backend/projectpics/miss1.png)
+  - Affect Mission 
+![Features Section](backend/projectpics/missaffect.png)  
+  - Automated Email to affected client and technician 
+![](backend/projectpics/techemail.png)
+![](backend/projectpics/cleintemail.png)
+  - Reply to reclammation 
+![Features Section](backend/projectpics/replyrec.png)    *Caption: Detailed view of a technician’s performance*
 
 - **Automated Emails**  
   *Caption: Automated email functionality*
