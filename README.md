@@ -113,7 +113,7 @@ Here are some screenshots of the project:
 ## Video Demo
 
 Here's a video demonstration of the project:
-https://www.youtube.com/watch?v=nVTRz93AxVU&feature=youtu.be&sttick=0
+https://www.youtube.com/watch?v=25W8MoCT-VI
 [![Video Demo](https://img.youtube.com/vi/25W8MoCT-VI/maxresdefault.jpg
 )]( (https://www.youtube.com/watch?v=25W8MoCT-VI))
 
